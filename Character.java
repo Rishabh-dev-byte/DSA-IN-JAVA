@@ -10,4 +10,4 @@ class Character {
         }
         return letters[0];
     }
-}
+}1`
