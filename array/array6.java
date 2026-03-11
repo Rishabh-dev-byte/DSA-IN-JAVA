@@ -1,3 +1,5 @@
+// right shift by k-steps
+
 package array;
 import java.util.Scanner;
 class Solution {
