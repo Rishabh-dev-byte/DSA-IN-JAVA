@@ -1,5 +1,5 @@
 // left shift by k steps
-package array;
+
 import java.util.Scanner;
 class Solution {
     public  static void reverse(int arr[],int start, int end) {

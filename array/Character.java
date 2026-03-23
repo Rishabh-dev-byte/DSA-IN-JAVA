@@ -1,4 +1,4 @@
-package array;
+
 class Character {
     
     public char nextGreatestLetter(char[] letters, char target) {
@@ -11,4 +11,4 @@ class Character {
         }
         return letters[0];
     }
-}1`
+}
